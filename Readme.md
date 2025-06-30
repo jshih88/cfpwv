@@ -1,4 +1,4 @@
-# Dissertation Project Repository
+# Project Repository
 
 This repository contains all materials used for the dissertation project, organised into a structured framework for both Python and Stata analyses.
 
@@ -76,7 +76,7 @@ To use this repository:
 
 1. Run "do_files/js_cfpwv.do" in Stata to create the log files in the directory "log_files/*.log".
 
-2. Run "scripts/js_cfpwv.sh" that uses "log_files/*.log" to create the consolidated table "tables/js_cfpwv.csv"
+2. Run "scripts/js_cfpwv.sh" on a Macbook that uses "log_files/*.log" to create the consolidated table "tables/js_cfpwv.csv"
 
 3. Run "scripts/js_exposures_plot_by_age.do" that uses "tables/js_cfpwv.csv" to create plots in "figures/*.png"
 
