@@ -1,0 +1,66 @@
+DepVar: [bmi]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_bmi_9,-0.0349(-0.0613 to -0.0086),0.0090,0.0153,5802,8017
+z_bmi_17,-0.0591(-0.0918 to -0.0263),0.0000,0.0126,3755,10588
+z_bmi_24,-0.0852(-0.1233 to -0.0472),0.0000,0.0195,2893,11672
+
+DepVar: [wc]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_wc_9,-0.0181(-0.0443 to 0.0081),0.1750,0.0172,5854,7959
+z_wc_17,NO_DATA,NO_DATA,NO_DATA,NO_DATA,NO_DATA
+z_wc_24,-0.0887(-0.1256 to -0.0519),0.0000,0.1140,2888,11681
+
+DepVar: [bp_sys]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_bp_sys_9,-0.0240(-0.0511 to 0.0032),0.0830,0.0049,5784,8050
+z_bp_sys_17,-0.0241(-0.0547 to 0.0064),0.1210,0.2304,3522,10974
+z_bp_sys_24,-0.0385(-0.0733 to -0.0037),0.0300,0.2406,2906,11652
+
+DepVar: [bp_dia]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_bp_dia_9,-0.0304(-0.0578 to -0.0030),0.0300,0.0024,5786,8047
+z_bp_dia_17,-0.0723(-0.1067 to -0.0379),0.0000,0.0270,3522,10974
+z_bp_dia_24,-0.0454(-0.0846 to -0.0061),0.0240,0.0186,2906,11652
+
+DepVar: [chol]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_chol_9,-0.0295(-0.0625 to 0.0035),0.0800,0.0127,3924,10568
+z_chol_17,0.0205(-0.0198 to 0.0609),0.3180,0.0845,2473,12363
+z_chol_24,0.0054(-0.0371 to 0.0479),0.8030,0.0604,2366,12395
+
+DepVar: [hdl]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_hdl_9,-0.0145(-0.0479 to 0.0189),0.3950,0.0145,3924,10568
+z_hdl_17,0.0176(-0.0232 to 0.0583),0.3980,0.0872,2473,12363
+z_hdl_24,0.0548(0.0130 to 0.0966),0.0100,0.1406,2366,12395
+
+DepVar: [ldl]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_ldl_9,-0.0247(-0.0575 to 0.0081),0.1400,0.0282,3923,10569
+z_ldl_17,0.0116(-0.0301 to 0.0533),0.5850,0.0309,2473,12363
+z_ldl_24,-0.0204(-0.0637 to 0.0229),0.3550,0.0285,2364,12397
+
+DepVar: [trig]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_trig_9,-0.0017(-0.0354 to 0.0320),0.9210,0.0030,3924,10568
+z_trig_17,0.0152(-0.0261 to 0.0565),0.4720,0.0037,2473,12363
+z_trig_24,-0.0002(-0.0443 to 0.0438),0.9920,0.0294,2365,12396
+
+DepVar: [glc_meta]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_glc_meta_9,-0.0227(-0.0574 to 0.0120),0.2000,0.0075,3779,10156
+z_glc_meta_17,0.0401(-0.0041 to 0.0843),0.0760,0.0405,2389,12475
+z_glc_meta_24,-0.0009(-0.0395 to 0.0376),0.9620,0.0625,2365,12393
+
+DepVar: [insul]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_insul_9,0.0124(-0.0192 to 0.0439),0.4420,-0.0010,3905,10600
+z_insul_17,-0.0358(-0.0791 to 0.0076),0.1060,0.0074,2434,12417
+z_insul_24,-0.0707(-0.1148 to -0.0267),0.0020,0.0149,2366,12395
+
+DepVar: [cfpwv]
+DepVar,Coefficient(95% CI),P-value,R2,Num-of-obs,Missing-Values
+z_cfpwv_9,NO_DATA,NO_DATA,NO_DATA,NO_DATA,NO_DATA
+z_cfpwv_17,0.0022(-0.0328 to 0.0371),0.9040,0.1258,3010,11765
+z_cfpwv_24,0.0209(-0.0138 to 0.0555),0.2380,0.0261,1915,13173
+

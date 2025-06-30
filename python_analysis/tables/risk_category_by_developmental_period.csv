@@ -1,0 +1,11 @@
+Unnamed: 0,Risk_Category,Developmental_Period,Mean_Coefficient,SD_Coefficient,Number_of_Measurements,Mean_P_value,Proportion_Significant,Mean_Sample_Size,Mean_R_Squared
+0,Anthropometric,Childhood (9-12),-0.0265,0.0118793939239339,2,0.092,50.0,5828.0,0.01625
+1,Anthropometric,Early Adulthood (17-24),-0.0776666666666666,0.0161741563406977,3,0.0,75.0,3178.6666666666665,0.0487
+2,Blood Pressure,Childhood (9-12),-0.0272,0.0045254833995939,2,0.0565,50.0,5785.0,0.0036499999999999
+3,Blood Pressure,Early Adulthood (17-24),-0.045075,0.0202030319506751,4,0.04375,75.0,3214.0,0.12915
+4,Lipid Profile,Childhood (9-12),-0.0186333333333333,0.0148597891416174,3,0.3803333333333333,0.0,3923.6666666666665,0.0146333333333333
+5,Lipid Profile,Early Adulthood (17-24),0.00535,0.0145566136171844,6,0.5875,0.0,2419.0,0.0395666666666666
+6,Arterials Stiffness,Early Adulthood (17-24),0.01155,0.0132228968081884,2,0.571,0.0,2462.5,0.07595
+9,Glucose Metabolism,Childhood (9-12),-0.00515,0.0248194480196478,2,0.321,0.0,3842.0,0.00325
+10,Glucose Metabolism,Early Adulthood (17-24),-0.016825,0.0474574458506425,4,0.2865,25.0,2388.5,0.031325
+11,Arterials Stiffness,Childhood (9-12),,,0,,0.0,,

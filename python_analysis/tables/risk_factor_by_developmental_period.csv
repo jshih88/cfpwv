@@ -1,0 +1,23 @@
+,Risk_Factor,Developmental_Period,Mean_Coefficient,SD_Coefficient,Number_of_Measurements,Mean_P_value,Proportion_Significant,Mean_Sample_Size,Mean_R_Squared
+0,Body Mass Index,Childhood (9-12),-0.0349,,1,0.009,100.0,5802.0,0.0153
+1,Body Mass Index,Early Adulthood (17-24),-0.07214999999999999,0.018455486988968893,2,0.0,100.0,3324.0,0.016050000000000002
+2,Carotid Femoral PWV,Childhood (9-12),,,0,,0.0,,
+3,Carotid Femoral PWV,Early Adulthood (17-24),0.01155,0.013222896808188438,2,0.571,0.0,2462.5,0.07595
+4,Diastolic Blood Pressure,Childhood (9-12),-0.0304,,1,0.03,100.0,5786.0,0.0024
+5,Diastolic Blood Pressure,Early Adulthood (17-24),-0.05885,0.019021172413918125,2,0.012,100.0,3214.0,0.0228
+6,Glucose Metabolism,Childhood (9-12),-0.0227,,1,0.2,0.0,3779.0,0.0075
+7,Glucose Metabolism,Early Adulthood (17-24),0.0196,0.028991378028648446,2,0.519,0.0,2377.0,0.051500000000000004
+8,High-density Lipoprotein,Childhood (9-12),-0.0145,,1,0.395,0.0,3924.0,0.0145
+9,High-density Lipoprotein,Early Adulthood (17-24),0.0362,0.026304372260139573,2,0.20400000000000001,50.0,2419.5,0.1139
+10,Insulin,Childhood (9-12),0.0124,,1,0.442,0.0,3905.0,-0.001
+11,Insulin,Early Adulthood (17-24),-0.05325,0.02467802666341051,2,0.054,50.0,2400.0,0.01115
+12,Low-Density Lipoprotein,Childhood (9-12),-0.0247,,1,0.14,0.0,3923.0,0.0282
+13,Low-Density Lipoprotein,Early Adulthood (17-24),-0.004400000000000001,0.02262741699796952,2,0.47,0.0,2418.5,0.0297
+14,Systolic Blood Pressure,Childhood (9-12),-0.024,,1,0.083,0.0,5784.0,0.0049
+15,Systolic Blood Pressure,Early Adulthood (17-24),-0.0313,0.010182337649086283,2,0.0755,50.0,3214.0,0.2355
+16,Total Cholesterol,Childhood (9-12),-0.0295,,1,0.08,0.0,3924.0,0.0127
+17,Total Cholesterol,Early Adulthood (17-24),0.01295,0.010677312395916867,2,0.5605,0.0,2419.5,0.07245
+18,Triglycerides,Childhood (9-12),-0.0017,,1,0.921,0.0,3924.0,0.003
+19,Triglycerides,Early Adulthood (17-24),0.0075,0.010889444430272831,2,0.732,0.0,2419.0,0.01655
+20,Waist Circumference,Childhood (9-12),-0.0181,,1,0.175,0.0,5854.0,0.0172
+21,Waist Circumference,Early Adulthood (17-24),-0.0887,,1,0.0,50.0,2888.0,0.114
