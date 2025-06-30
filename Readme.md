@@ -61,7 +61,7 @@ To use this repository:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jshih88/dissertation.git
+   git clone https://github.com/jshih88/cfpwv.git
    ```
 
 2. Navigate to either the Python or Stata directories depending on your analysis needs.
@@ -74,11 +74,11 @@ To use this repository:
 
 **Base Directory** = "stata/"
 
-1. Run "do_files/js_cfpwv.do" in Stata to create the log files in directory "log_files/*.log".
+1. Run "do_files/js_cfpwv.do" in Stata to create the log files in the directory "log_files/*.log".
 
 2. Run "scripts/js_cfpwv.sh" that uses "log_files/*.log" to create the consolidated table "tables/js_cfpwv.csv"
 
-3. Run "scripts/js_exposures_plot_by_age.do" that uses "tables/js_cfpwv.csv" to create plots in "figures/"
+3. Run "scripts/js_exposures_plot_by_age.do" that uses "tables/js_cfpwv.csv" to create plots in "figures/*.png"
 
 ### Python Data Science Ecosystem Analysis
 
